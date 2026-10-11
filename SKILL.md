@@ -1,6 +1,11 @@
 ---
 name: ui-feedback-translator
-description: UI design spec contract and feedback translation for AI-assisted app UI work. Confirm spec before starting, self-validate outputs against the spec, restate intent as a spec diff before redrawing, and offer variants for taste feedback. Trigger on: designing app screens, wireframes, mockups, UI generation, design review, 設計稿, 線框圖, 畫面, 切圖, 對稿.
+description: >-
+  UI design spec contract and feedback translation for AI-assisted app UI work.
+  Confirm spec before starting, self-validate outputs against the spec, restate
+  intent as a spec diff before redrawing, and offer variants for taste feedback.
+  Trigger on: designing app screens, wireframes, mockups, UI generation, design
+  review, 設計稿, 線框圖, 畫面, 切圖, 對稿.
 ---
 
 # UI Feedback Translator（回饋翻譯器）
